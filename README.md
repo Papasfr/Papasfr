@@ -8,4 +8,5 @@
 Papasfr/Papasfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 El juego de una pelota que la puedes mover para llevarla a una sala donde debe subir en mesas comida 
- Y cada vez el nivel sea más difícil 
+ Y cada vez el nivel sea más difícil y luego el mundo falla mostrando de fondo 1001010100101010010100110100101011010010010101001010101000101010
+Y termina el juego....(_____)
